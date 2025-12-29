@@ -13,7 +13,7 @@ class Solution:
             if len(row) == 1:
                 return True
 
-            def backtrack(i: int, path: List[str]) -> bool:
+            def backtrack(i, path):
                 if i == len(row) - 1:
                     return dfs("".join(path))
 
