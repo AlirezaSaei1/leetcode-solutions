@@ -8,5 +8,5 @@ The main purpose of this repository is to keep track of my problem-solving progr
 
 ```text
 CONTESTS/   Solutions from LeetCode contests
-QUESTS/     Topic-based or extra practice questions
-PROBLEMS/   LeetCode problems organized by problem number and title
+QUESTS/     Solutions for LeetCode quests
+PROBLEMS/   LeetCode problems (organized by problem number and title)
